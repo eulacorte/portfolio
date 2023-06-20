@@ -52,7 +52,7 @@ modoDarkIcone.onclick = () => {
 
 /*========== Revelar ao Scrollar ==========*/
 ScrollReveal({
-    //reset: true,
+    //reset: true, (QUANDO CLICAR NOS LINKS DE NOVO - HOME, ETC -, ELE VAI MOSTRAR ANIMAÇÕES DE NOVO!)
     distance: '80px',
     duration: 2000,
     delay: 200
